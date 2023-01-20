@@ -136,9 +136,39 @@
 
 
 
+// let car = {
+//   model:"golf",
+//   make:"volkswagen",
+//   year:2022,
+//   color:"black"
+// };
+// let arrKeys = Object.keys(car);
+// console.log(arrKeys);
+
+
+// for (const element of arrKeys) {
+//     console.log(element); 
+// }
+
+
+// for (const d of arrKeys) {
+//  if (d=== "make") {
+//   console.log(car[d]);
+//  }
+// }
+
+// for (const d of arrKeys) {
+//   if (d=== "model") {
+//    console.log(car[d]);
+//   }
+//  }
+ 
+
+// let arrEntries = Object.entries(car);
+// console.log(arrEntries);
 
 
 
-
-
-
+// for (const element of arrEntries) {
+//   console.log(element[0] + ": " + element[1]);
+// }
