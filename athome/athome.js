@@ -11,7 +11,7 @@
 
 ////    WHILE PRIMER 
 // let arr = ["MIKE","ANTAL","MARK","EMIR","LOUISA","JACKY"]
-let notfound = true;
+// let notfound = true;
 // while (notfound && arr.length>0) {
 //   if (arr[0]==="LOUISA") {
 //     console.log("FOUND HER! ");
